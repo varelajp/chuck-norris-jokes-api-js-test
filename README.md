@@ -4,7 +4,7 @@
   <img src="https://api.chucknorris.io/img/chucknorris_logo_coloured_small@2x.png" width="200" title="Chuck">
 </p>
 
-Retrieves an array of 15 random Chuck Norris' jokes in JSON format from [chucknorris.io][1] using plain JavaScript.
+Retrieves an array of 15 random Chuck Norris' jokes in JSON format from [chucknorris.io][1] API using plain JavaScript.
 
 ___
 Requirements
