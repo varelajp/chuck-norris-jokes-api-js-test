@@ -15,7 +15,7 @@ Requirements
 Install
 ------------
 
-* Clone or donwload this repo on your PC. There's no need to configure anything to run it.<br>
+* Clone or donwload this repo. There's no need to configure anything to run it.<br>
 * Open the `api-chuck-norris.html` in your browser from anywhere on your file system.
 
 Live Demo
